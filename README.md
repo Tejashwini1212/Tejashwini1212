@@ -2,15 +2,12 @@
 
 ### Python Developer | AI & ML Enthusiast  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Tejashwini1212&label=Profile%20views&color=0e75b6&style=flat" alt="Tejashwini1212" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
 - 🔭 Currently working on **AI & Machine Learning projects**
 - 🌱 Exploring **Data Science, NLP, and LLM-based applications**
+- 💡 Interested in building **real-world ML & GenAI solutions**
 - 📫 Reach me at **tejuhosamani60@gmail.com**
 
 ---
@@ -56,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejashwini1212&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=Tejashwini1212&theme=default" />
 </p>
