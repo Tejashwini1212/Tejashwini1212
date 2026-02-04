@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tejashwini J Hosamani  
+# Hiii, I'm Tejashwini J Hosamani  
 
 ### Python Developer | AI & ML Enthusiast  
 
