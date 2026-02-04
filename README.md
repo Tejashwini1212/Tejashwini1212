@@ -4,7 +4,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 - 🔭 Currently working on **AI & Machine Learning projects**
 - 🌱 Exploring **Data Science, NLP, and LLM-based applications**
 - 💡 Interested in building **real-world ML & GenAI solutions**
@@ -44,14 +44,5 @@
   <img src="https://cdn.simpleicons.org/hadoop/66CCFF" height="40"/>
 </p>
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejashwini1212&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tejashwini1212&theme=default" />
-</p>
