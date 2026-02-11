@@ -1,6 +1,6 @@
 # Hiii, I'm Tejashwini J Hosamani  
 
-### Python Developer | AI & ML Enthusiast  
+### AI & ML Enthusiast  
 
 ---
 
