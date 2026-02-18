@@ -1,46 +1,90 @@
-# Hiii, I'm Teju
- 
+# 🚀 Tejashwini Hosamani  
+### AI Engineer | Machine Learning Developer | Generative AI Enthusiast  
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Systems;LLM+%7C+NLP+%7C+Deep+Learning;From+Data+to+Deployment;Turning+Ideas+into+AI+Products" />
+</p>
 
-##  About Me
-- 🔭 Currently working on **AI & Machine Learning projects**
-- 🌱 Exploring **Data Science, NLP, and LLM-based applications**
-- 💡 Interested in building **real-world ML & GenAI solutions**
-- 📫 Reach me at **tejuhosamani60@gmail.com**
+---
 
+## 🧠 About Me  
 
+I build **end-to-end AI systems** that transform raw data into intelligent applications.
 
-## 🤝 Connect with Me
+- 🤖 Developing **LLM & NLP-based applications**
+- 📊 Designing **scalable ML pipelines**
+- 🧩 Working with **RAG, Vector Databases & AI Agents**
+- 🚀 Focused on real-world AI deployment
+- 🌱 Continuously exploring the future of Generative AI
+
+📫 **Email:** tejuhosamani60@gmail.com  
+
+---
+
+## 💼 Featured Projects  
+
+### 🧾 LLM-Powered Chatbot (RAG-Based)
+- Built using **LangChain + Ollama**
+- Implemented **Retrieval-Augmented Generation**
+- Context-aware responses with document memory
+
+### 📊 End-to-End Machine Learning Pipeline
+- Data preprocessing → Feature engineering → Model training → Deployment
+- Tech used: **Scikit-Learn, Pandas, Flask**
+- Designed for scalability & real-world usage
+
+### 🤖 Deep Learning Model
+- Built neural networks using **TensorFlow & PyTorch**
+- Optimized performance with hyperparameter tuning
+- Focused on accuracy & generalization
+
+---
+
+## 🛠️ Tech Stack  
+
+### 👩‍💻 Programming
+`Python` | `Java`
+
+### 🤖 AI / ML
+`Pandas` | `NumPy` | `Scikit-Learn` | `TensorFlow` | `PyTorch` | `Keras`
+
+### 🧠 Generative AI
+`LangChain` | `Ollama` | `RAG` | `Vector Databases`
+
+### 🌐 Development
+`Flask` | `React` | `Node.js` | `Streamlit`
+
+### 🗄️ Databases & Tools
+`MySQL` | `PostgreSQL` | `Hadoop` | `Jupyter` | `Anaconda`
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejashwini1212&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejashwini1212&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
 <p align="left">
-  <a href="https://github.com/Tejashwini1212" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+  <a href="https://github.com/Tejashwini1212">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/tejashwini-hosamani" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://linkedin.com/in/tejashwini-hosamani">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🎯 Career Vision  
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,react,nodejs" height="40"/>
-</p>
+To contribute to impactful AI innovations by building intelligent, scalable, and production-ready ML systems that solve real-world problems.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,scikitlearn,tensorflow,pytorch,keras" height="40"/>
-</p>
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,anaconda,jupyter,streamlit" height="40"/>
-</p>
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40"/>
-  <img src="https://cdn.simpleicons.org/ollama" height="40"/>
-  <img src="https://cdn.simpleicons.org/hadoop/66CCFF" height="40"/>
-</p>
-
-
-
+⭐ *“The best way to predict the future is to build it with AI.”*
