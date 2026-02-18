@@ -21,24 +21,6 @@ I build **end-to-end AI systems** that transform raw data into intelligent appli
 
 ---
 
-## 💼 Featured Projects  
-
-### 🧾 LLM-Powered Chatbot (RAG-Based)
-- Built using **LangChain + Ollama**
-- Implemented **Retrieval-Augmented Generation**
-- Context-aware responses with document memory
-
-### 📊 End-to-End Machine Learning Pipeline
-- Data preprocessing → Feature engineering → Model training → Deployment
-- Tech used: **Scikit-Learn, Pandas, Flask**
-- Designed for scalability & real-world usage
-
-### 🤖 Deep Learning Model
-- Built neural networks using **TensorFlow & PyTorch**
-- Optimized performance with hyperparameter tuning
-- Focused on accuracy & generalization
-
----
 
 ## 🛠️ Tech Stack  
 
