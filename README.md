@@ -2,7 +2,7 @@
 
 ### AI & ML Enthusiast  
 
----
+
 
 ##  About Me
 - 🔭 Currently working on **AI & Machine Learning projects**
@@ -10,7 +10,7 @@
 - 💡 Interested in building **real-world ML & GenAI solutions**
 - 📫 Reach me at **tejuhosamani60@gmail.com**
 
----
+
 
 ## 🤝 Connect with Me
 <p align="left">
