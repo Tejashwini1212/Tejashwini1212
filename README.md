@@ -1,5 +1,5 @@
 # 🚀 Tejashwini Hosamani  
-### AI Engineer | Machine Learning Developer | Generative AI Enthusiast  
+### Software Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Systems;LLM+%7C+NLP+%7C+Deep+Learning;From+Data+to+Deployment;Turning+Ideas+into+AI+Products" />
