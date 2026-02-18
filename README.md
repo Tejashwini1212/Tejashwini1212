@@ -62,10 +62,4 @@ I build **end-to-end AI systems** that transform raw data into intelligent appli
 
 ---
 
-## 🎯 Career Vision  
 
-To contribute to impactful AI innovations by building intelligent, scalable, and production-ready ML systems that solve real-world problems.
-
----
-
-⭐ *“The best way to predict the future is to build it with AI.”*
