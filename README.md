@@ -1,7 +1,5 @@
-# Hiii, I'm Tejashwini J Hosamani  
-
-### AI & ML Enthusiast  
-
+# Hiii, I'm Teju
+ 
 
 
 ##  About Me
