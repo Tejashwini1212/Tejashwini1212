@@ -1,79 +1,83 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Tejashwini Hosamani  
+# 🚀 Tejashwini Hosamani  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+ML+Developer;Generative+AI+Enthusiast;LLM+%7C+NLP+%7C+Deep+Learning;Building+Real-World+AI+Systems" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tejashwini1212&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Tejashwini1212?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Tejashwini1212?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Developer;LLM+%7C+NLP+%7C+Deep+Learning;Building+Real-World+AI+Systems" />
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-✨ Passionate about building **intelligent AI systems** from scratch  
-🤖 Working on **LLMs, NLP & Deep Learning**  
-📊 Designing scalable **ML pipelines & AI products**  
-🧩 Exploring **RAG, Vector Databases & AI Agents**  
-🚀 Focused on real-world AI deployment  
+I build **end-to-end AI systems** that transform raw data into intelligent applications.
+
+- 🤖 Developing **LLM & NLP-based applications**
+- 📊 Designing **scalable ML pipelines**
+- 🧩 Working with **RAG, Vector Databases & AI Agents**
+- 🌱 Continuously exploring Generative AI
 
 📫 **Email:** tejuhosamani60@gmail.com  
 
 ---
 
-## ⚡ Tech Stack  
+## 🛠️ Tech Stack  
 
-### 💻 Languages
+### 👩‍💻 Programming
 <p>
-<img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" height="45"/>
 </p>
 
 ### 🤖 AI / ML
 <p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,tensorflow,pytorch,keras" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="45"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="45"/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="45"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+  <img src="https://skillicons.dev/icons?i=keras" height="45"/>
 </p>
 
-### 🧠 GenAI
+### 🧠 Generative AI
 <p>
-<img src="https://skillicons.dev/icons?i=flask,streamlit" />
-<img src="https://cdn.simpleicons.org/langchain/white" height="45"/>
-<img src="https://cdn.simpleicons.org/ollama/white" height="45"/>
+  <img src="https://cdn.simpleicons.org/langchain/white" height="45"/>
+  <img src="https://cdn.simpleicons.org/ollama/white" height="45"/>
 </p>
 
-### 🌐 Development & Database
+### 🌐 Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,postgres,hadoop" />
+  <img src="https://skillicons.dev/icons?i=flask" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+  <img src="https://skillicons.dev/icons?i=streamlit" height="45"/>
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+  <img src="https://skillicons.dev/icons?i=hadoop" height="45"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" height="45"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" height="45"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejashwini1212&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejashwini1212&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejashwini1212&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejashwini1212&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejashwini1212&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🌍 Connect With Me  
+## 🌐 Connect With Me  
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Tejashwini1212">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
   <a href="https://linkedin.com/in/tejashwini-hosamani">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
-
----
-
-### 🚀 "Turning Data into Intelligent Systems"
