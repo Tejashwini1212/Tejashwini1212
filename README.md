@@ -1,7 +1,7 @@
 # 🚀 Tejashwini Hosamani  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;Aspiring+Machine+Learning+Engineer;LLM+%7C+NLP+%7C+Deep+Learning;Building+Real-World+AI+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%E2%80%A2+ML+%E2%80%A2+Generative+AI;Building+Intelligent+Systems;From+Data+to+Deployment" />
 </p>
 
 ---
