@@ -1,6 +1,6 @@
- Tejashwini Hosamani  
+ #Tejashwini Hosamani  
 
-## 🧠 About Me  
+##  About Me  
 
 I am an **AI & Machine Learning enthusiast** passionate about building intelligent systems from data.
 
