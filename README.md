@@ -14,7 +14,6 @@ I build **end-to-end AI systems** that transform raw data into intelligent appli
 - 🤖 Developing **LLM & NLP-based applications**
 - 📊 Designing **scalable ML pipelines**
 - 🧩 Working with **RAG, Vector Databases & AI Agents**
-- 🚀 Focused on real-world AI deployment
 - 🌱 Continuously exploring the future of Generative AI
 
 📫 **Email:** tejuhosamani60@gmail.com  
