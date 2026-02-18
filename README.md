@@ -1,19 +1,19 @@
 # 🚀 Tejashwini Hosamani  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Developer;LLM+%7C+NLP+%7C+Deep+Learning;Building+Real-World+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;Aspiring+Machine+Learning+Engineer;LLM+%7C+NLP+%7C+Deep+Learning;Building+Real-World+AI+Projects" />
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-I build **end-to-end AI systems** that transform raw data into intelligent applications.
+I am an **AI & Machine Learning enthusiast** passionate about building intelligent systems from data.
 
-- 🤖 Developing **LLM & NLP-based applications**
-- 📊 Designing **scalable ML pipelines**
-- 🧩 Working with **RAG, Vector Databases & AI Agents**
-- 🌱 Continuously exploring Generative AI
+- 🤖 Exploring **LLMs, NLP & Deep Learning**
+- 📊 Building hands-on **ML projects**
+- 🧩 Learning **RAG, Vector Databases & AI Agents**
+- 🌱 Continuously improving my AI & Data Science skills
 
 📫 **Email:** tejuhosamani60@gmail.com  
 
