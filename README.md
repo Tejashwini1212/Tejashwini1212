@@ -7,7 +7,6 @@ I am an **AI & Machine Learning enthusiast** passionate about building intellige
 - 🤖 Exploring **LLMs, NLP & Deep Learning**
 - 📊 Building hands-on **ML projects**
 - 🧩 Learning **RAG, Vector Databases & AI Agents**
-- 🌱 Continuously improving my AI & Data Science skills
 
 📫 **Email:** tejuhosamani60@gmail.com  
 
