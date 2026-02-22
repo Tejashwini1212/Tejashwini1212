@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Tejashwini
 
-Welcome to my GitHub! I'm passionate about **AI, LLMs, and building interactive applications**.  
+Welcome to my GitHub! 
 
 ---
 
