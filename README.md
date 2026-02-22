@@ -66,7 +66,3 @@ Welcome to my GitHub! I'm passionate about **AI, LLMs, and building interactive 
 
 ---
 
-### 💡 Notes
-
-- Only projects I feature here appear in the README — **other pinned repositories remain separate**.  
-- Images are linked directly from the repos for a clean visual look.  
