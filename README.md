@@ -1,75 +1,16 @@
-# Tejashwini Hosamani  
+# 👋 Hi, I’m Tejashwini
 
-##  About Me  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejashwini1212&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejashwini1212&layout=compact&theme=radical)
 
+## 🏆 GitHub Trophies
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tejashwini1212&theme=gruvbox)
 
-- 🤖 Exploring **LLMs, NLP & Deep Learning**
-- 📊 Building hands-on **ML projects**
-- 🧩 Learning **RAG, Vector Databases & AI Agents**
-
-📫 **Email:** tejuhosamani60@gmail.com  
-
----
-
-## 🛠️ Tech Stack  
-
-### 👩‍💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://skillicons.dev/icons?i=java" height="45"/>
-</p>
-
-### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas" height="45"/>
-  <img src="https://skillicons.dev/icons?i=numpy" height="45"/>
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="45"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
-  <img src="https://skillicons.dev/icons?i=keras" height="45"/>
-</p>
-
-### 🧠 Generative AI
-<p>
-  <img src="https://cdn.simpleicons.org/langchain/white" height="45"/>
-  <img src="https://cdn.simpleicons.org/ollama/white" height="45"/>
-</p>
-
-### 🌐 Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flask" height="45"/>
-  <img src="https://skillicons.dev/icons?i=react" height="45"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-  <img src="https://skillicons.dev/icons?i=streamlit" height="45"/>
-</p>
-
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-  <img src="https://skillicons.dev/icons?i=hadoop" height="45"/>
-  <img src="https://skillicons.dev/icons?i=jupyter" height="45"/>
-  <img src="https://skillicons.dev/icons?i=anaconda" height="45"/>
-</p>
+## 📊 Contribution Activity
+![Contrib Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejashwini1212&theme=dracula)
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejashwini1212&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejashwini1212&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="left">
-  <a href="https://github.com/Tejashwini1212">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/tejashwini-hosamani">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-</p>
+### 🔭 Projects  
+⭐ **Agentic-RAG-Gemma** – Local RAG agent with EmbeddingGemma & Llama3  
+🔗 https://github.com/Tejashwini1212/Agentic-Rag-Gemma
