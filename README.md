@@ -4,7 +4,7 @@ Welcome to my GitHub!
 
 ---
 
-## 🌟 Skills & Tech Stack
+## 🌟 Skills & Tech Stack 
 
 - **Languages:** Python, JavaScript
 - **AI & ML:** EmbeddingGemma, Llama 3.2, RAG
