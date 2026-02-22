@@ -2,7 +2,6 @@
 
 ##  About Me  
 
-I am an **AI & Machine Learning enthusiast** passionate about building intelligent systems from data.
 
 - 🤖 Exploring **LLMs, NLP & Deep Learning**
 - 📊 Building hands-on **ML projects**
