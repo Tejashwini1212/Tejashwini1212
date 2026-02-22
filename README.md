@@ -14,18 +14,11 @@ Welcome to my GitHub! I'm passionate about **AI, LLMs, and building interactive 
 
 ---
 
-## 🚀 Featured Projects
 
-### **Agentic-RAG-Gemma**
-Local **Retrieval-Augmented Generation (RAG) Agent** using EmbeddingGemma & Llama 3.2. Query PDFs and documents locally with semantic search.
 
 [GitHub Repo](https://github.com/Tejashwini1212/Agentic-Rag-Gemma)  
 ![Agentic-RAG-Gemma](https://raw.githubusercontent.com/Tejashwini1212/Agentic-Rag-Gemma/main/agno.png)
 
-### **Your Next Project Here**
-Short description of the project, technologies used, and key features.  
-[GitHub Repo](#)  
-![Project Image](https://via.placeholder.com/200)
 
 ---
 
