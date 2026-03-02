@@ -55,7 +55,6 @@ Welcome to my GitHub!
 
 ## 📈 GitHub Stats
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Tejashwini1212/Agentic-Rag-Gemma)  
 ![GitHub followers](https://img.shields.io/github/followers/Tejashwini1212?label=Followers&style=social)
 
 ---
