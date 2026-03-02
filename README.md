@@ -6,10 +6,11 @@ Welcome to my GitHub!
 
 ## 🌟 Skills & Tech Stack 
 
+
 - **Languages:** Python, Java
 - **AI & ML:** EmbeddingGemma, Llama 3.2, RAG
 - **Tools & Frameworks:** Streamlit, LanceDB, Ollama
-- **Databases:** Vector Databases, JSON, SQLite
+- **Databases:** Vector Databases, JSON, SQLite  
 - **Version Control & Collaboration:** Git, GitHub
 
 ---
