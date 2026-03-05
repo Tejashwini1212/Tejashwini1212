@@ -8,7 +8,7 @@ Welcome to my GitHub!!!!
 
 
 - **Languages:** Python, Java
-- **AI & ML:** EmbeddingGemma, Llama 3.2, RAG
+- **AI & ML:** EmbeddingGemma, Llama, RAG
 - **Tools & Frameworks:** Streamlit, LanceDB, Ollama
 - **Databases:** Vector Databases,PostgreSQL, SQLite  
 - **Version Control & Collaboration:** Git, GitHub
