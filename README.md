@@ -53,9 +53,6 @@ Welcome to my GitHub!!!!
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub followers](https://img.shields.io/github/followers/Tejashwini1212?label=Followers&style=social)
 
 ---
 
