@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!!!!
 
----------------------
+--------------------
 
 ## 🌟 Skills & Tech Stack 
 
@@ -13,7 +13,7 @@ Welcome to my GitHub!!!!
 - **Databases:** Vector Databases,PostgreSQL, SQLite  
 - **Version Control & Collaboration:** Git, GitHub
 
----------------------
+--------------------
 
 
 
